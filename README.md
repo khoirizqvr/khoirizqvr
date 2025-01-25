@@ -4,10 +4,7 @@ I'm an Undergraduate Informatics Engineering student from Universitas Dian Nuswa
 
 # 📊 Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=khoirizqvr&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirizqvr&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khoirizqvr.khoirizqvr)
 
 # 📱 Social Media
 
