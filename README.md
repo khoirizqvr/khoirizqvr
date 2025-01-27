@@ -4,7 +4,7 @@ I'm an Undergraduate Informatics Engineering student from Universitas Dian Nuswa
 
 # 📊 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirizqvr&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirizqvr&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px)
 
 # 📱 Social Media
 
