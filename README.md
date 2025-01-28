@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an undergrad Computer Science student from Universitas Dian Nuswantoro who is interested in exploring challenges and opportunities in data science, with a strong enthusiasm for uncovering insights and solving real-world problems through data-driven approaches.
+I'm an UnderGrad Computer Science student from Universitas Dian Nuswantoro who is interested in exploring challenges and opportunities in data science, with a strong enthusiasm for uncovering insights and solving real-world problems through data-driven approaches.
 
 # 📊 Github Stats
 
